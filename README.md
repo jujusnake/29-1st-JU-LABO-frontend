@@ -26,6 +26,7 @@
 - Bcrypt
 
 [백엔드 레포지토리](https://github.com/wecode-bootcamp-korea/29-1st-JU-LABO-backend)
+[Trello](https://trello.com/b/8wpm23xX/%EC%A3%BC%EB%9D%BC%EB%B3%B4)
 
 ## 일정
 
@@ -75,6 +76,8 @@
 
 ## 시연
 
+[구현 영상](https://www.youtube.com/watch?v=FHodh-FGYuU)
+
 #### 로그인 & 로그아웃
 
 - 아이디 및 비밀번호 유효성 검사
@@ -84,8 +87,10 @@
 
 #### 메인페이지
 
-- carousel를 통한 이미지 전환
-- 마우스 hover 에 따른 다른 이미지 렌더링
+- 이미지들이 교체되는 메인 배너
+- [무한 슬라이더](https://velog.io/@jujusnake/JULABO-React.js%EB%A1%9C-Infinite-Carousel-%EA%B5%AC%ED%98%84-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%AF%B8%EC%82%AC%EC%9A%A9)
+- 항목 클릭 시 다른 콘텐츠를 보여주는 리스트
+- hover에 따라 애니메이션과 배경 이미지가 바뀌는 컴포넌트
   ![main](https://user-images.githubusercontent.com/39605922/153719735-7bd16587-c4ce-4a35-9b92-b5f19be003c8.gif)
 
 #### 검색에서 장바구니까지
@@ -107,6 +112,12 @@
 - 남주님이 만들어주신 JULABO의 이스터에그
 - 팀원들의 한마디 및 킹받는 햄찌 등장...
   ![hamster](https://user-images.githubusercontent.com/39605922/153719870-849ee490-5646-46ec-adf2-1847d42fc896.gif)
+
+#### 프로젝트 발표
+
+- 파이널 프로젝트 발표 진행
+[프로젝트 발표 자료](https://docs.google.com/presentation/d/1lampxK_kD7Z2X1v5HpN8QduNTt47jzxO/edit?usp=sharing&ouid=109770844785581485165&rtpof=true&sd=true)
+
 
 <br>
 
