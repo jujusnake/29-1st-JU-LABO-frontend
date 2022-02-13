@@ -83,7 +83,7 @@
 - 아이디 및 비밀번호 유효성 검사
 - 회원가입 성공 시 로그인 페이지로 이동
 - 로그인 성공 시 토큰발급 및 헤더 부분의 조건부 렌더링
-  ![login signup](https://user-images.githubusercontent.com/39605922/153719668-819c4830-6681-4a37-94c2-aad548109c84.gif)
+![login signup](https://user-images.githubusercontent.com/39605922/153719668-819c4830-6681-4a37-94c2-aad548109c84.gif)
 
 #### 메인페이지
 
